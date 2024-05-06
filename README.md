@@ -13,3 +13,5 @@ Display "loading..." while the search is in progress.
 Show "error fetching (reason why it failed)..." if the search encounters an error.
 Display "No results..." if the search yields no users.
 Manage all state using the context API.
+![project_img](img/githubSearch1.png);
+![project_img](img/githubSearch2.png);
