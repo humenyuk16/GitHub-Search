@@ -13,5 +13,5 @@ Display "loading..." while the search is in progress.
 Show "error fetching (reason why it failed)..." if the search encounters an error.
 Display "No results..." if the search yields no users.
 Manage all state using the context API.
-![GitHub Users Search](./gitHubusersSearch1.png)
-![GitHub Users Search](./gitHubusersSearch2.png)
+![GitHub Users Search](https://github.com/humenyuk16/GitHub-Search/blob/main/project_img/githubSearch1.png?raw=true)
+![GitHub Users Search](https://github.com/humenyuk16/GitHub-Search/blob/main/project_img/githubSearch2.png?raw=true)
